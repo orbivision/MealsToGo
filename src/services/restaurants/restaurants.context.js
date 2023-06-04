@@ -1,11 +1,9 @@
-import React, {
-  useState,
-  useContext,
-  createContext,
-  useEffect,
-} from "react";
+import React, { useState, useContext, createContext, useEffect } from "react";
 
-import { restaurantsRequest, restaurantsTransform } from "./restaurants.service";
+import {
+  restaurantsRequest,
+  restaurantsTransform,
+} from "./restaurants.service";
 
 import { LocationContext } from "../location/location.context";
 
