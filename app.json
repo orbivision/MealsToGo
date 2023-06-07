@@ -22,6 +22,17 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "51f7f3ad-2297-4672-94f3-9f0160eea7bd"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/51f7f3ad-2297-4672-94f3-9f0160eea7bd"
     }
   }
 }
